@@ -4,7 +4,7 @@
 - 💞️ I’m currently Working as Security Assessment Engineer at C3IHUB Org, IIT Kanpur.
 - 📫 TryHackMe - https://www.tryhackme.com/p/Malwre99
 - 📫 Twitter https://www.twitter.com/Deepakhr9
-📫 LinkedIn https://www.linkedin.com/in/Deepak-Aheer
+- 📫 LinkedIn https://www.linkedin.com/in/Deepak-Aheer
 
 <!---
 aheerdeepak/aheerdeepak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
